@@ -8,11 +8,11 @@
 
 ## 系統功能：(可用結構圖表現)
 
-1.Items頁面           ：檢視架上販賣商品的各項資料
-2.Companies頁面       ：與商家合作廠商的資訊管理
-3.Sold History頁面    ：交易紀錄等相關資料紀錄存放
-4.Members頁面         ：員工的資訊與管理介面
-5.Place an Order頁面  ：向銷售商品的廠商訂貨介面
+1.Items頁面           ：檢視架上販賣商品的各項資料  
+2.Companies頁面       ：與商家合作廠商的資訊管理  
+3.Sold History頁面    ：交易紀錄等相關資料紀錄存放  
+4.Members頁面         ：員工的資訊與管理介面  
+5.Place an Order頁面  ：向銷售商品的廠商訂貨介面  
 
 ### The files of codes of MYSQL are in projectDB/Dump20190609.
 ### The files of codes of ui are the following files:
