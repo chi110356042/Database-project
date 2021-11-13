@@ -14,7 +14,7 @@
 4.Members頁面         ：員工的資訊與管理介面  
 5.Place an Order頁面  ：向銷售商品的廠商訂貨介面  
 
-### The files of codes of MYSQL are in projectDB/Dump20190609.
+### The files of codes of MYSQL are in Database-project/Dump20190609.
 ### The files of codes of ui are the following files:
      companyList.ui, items.ui, main.ui, memberList.ui, order.ui and soldHistory.ui
 ### The files of codes of python are the following files:
